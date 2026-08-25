@@ -98,7 +98,7 @@ At **Nano Stream**, built *Nano Academics* — an academic management SaaS — o
 ## 🎓 Education & Certifications
 
 **MCA** — Kristu Jayanti College, Bengaluru *(Expected Jul 2026 | 72.92%)*
-**BCA** — Kristu Jayanti College, Bengaluru *(Jun 2024 | 66.05%)*
+**BCA** — Kristu Jayanti College Bengaluru *(Jun 2024 | 66.05%)*
 
 🏅 NPTEL Cloud Computing (IIT) · NPTEL OS Fundamentals (IIT) · Google Cyber Security · Blockchain (Linux Foundation)
 
